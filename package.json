@@ -1,0 +1,19 @@
+{
+  "name": "seminario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && node ./mauro/app.js"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "javascript"
+  ],
+  "author": "mauro",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc-node": "^0.0.3"
+  }
+}
